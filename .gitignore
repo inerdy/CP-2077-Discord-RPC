@@ -1,9 +1,0 @@
-.idea/
-.vscode/
-.xmake/
-work/
-temp/
-build/
-dist/
-package/
-*.log
